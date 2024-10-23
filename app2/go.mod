@@ -1,3 +1,3 @@
-module github.com/derektamsen/cdk8s-demo-apps/app2
+module github.com/derektamsen/cdk8sdemoapps/app2
 
 go 1.23.2
