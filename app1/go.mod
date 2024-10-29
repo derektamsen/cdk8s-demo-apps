@@ -2,7 +2,7 @@ module github.com/derektamsen/cdk8sdemoapps/app1
 
 go 1.23.2
 
-require github.com/derektamsen/cdk8ssharedapp v0.0.0-20241029060055-43761770eeea
+require github.com/derektamsen/cdk8ssharedapp v0.0.0-20241029064053-3b4b0bc7a7ff
 
 require (
 	github.com/Masterminds/semver/v3 v3.3.0 // indirect
