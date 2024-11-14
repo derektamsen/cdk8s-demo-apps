@@ -1,0 +1,21 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: exemplar-deployment-c8a275c3
+  namespace: my-app
+spec:
+  replicas: 3
+  selector:
+    matchLabels:
+      app: my-app
+  template:
+    metadata:
+      labels:
+        app: my-app
+    spec:
+      containers:
+        - image: ruby:3.1-alpine
+          name: app-container
+          ports:
+            - containerPort: 80
+      serviceAccountName: service-account

@@ -7,8 +7,8 @@ import (
 func main() {
 	clusters := &cdk8ssharedapp.K8sClusters{
 		Clusters: &[]cdk8ssharedapp.ClusterProps{
-			{ClusterName: "stage", Image: "nginx:latest"},
-			{ClusterName: "prod", Image: "nginx:1.19.10"},
+			{ClusterName: "stage-cluster-01", Image: "ruby:latest"},
+			{ClusterName: "prod-cluster-01", Image: "ruby:3.1-alpine"},
 		},
 	}
 
