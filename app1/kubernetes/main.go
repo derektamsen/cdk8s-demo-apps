@@ -6,8 +6,8 @@ import (
 
 func main() {
 	appConfig := &cdk8ssharedapp.AppConfig{
-		Name:      "app2",
-		Namespace: "app2",
+		Name:      "app1",
+		Namespace: "app1",
 	}
 
 	clusters := &cdk8ssharedapp.K8sClusters{
