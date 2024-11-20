@@ -2,13 +2,13 @@ module github.com/derektamsen/cdk8sdemoapps/app1
 
 go 1.23.2
 
-require github.com/derektamsen/cdk8ssharedapp v0.0.0-20241114234524-7f55dc7f762b
+require github.com/derektamsen/cdk8ssharedapp v0.0.0-20241120073039-320760283dcb
 
 require (
-	github.com/Masterminds/semver/v3 v3.3.0 // indirect
+	github.com/Masterminds/semver/v3 v3.3.1 // indirect
 	github.com/aws/constructs-go/constructs/v10 v10.4.2 // indirect
 	github.com/aws/jsii-runtime-go v1.105.0 // indirect
-	github.com/cdk8s-team/cdk8s-core-go/cdk8s/v2 v2.69.15 // indirect
+	github.com/cdk8s-team/cdk8s-core-go/cdk8s/v2 v2.69.18 // indirect
 	github.com/fatih/color v1.18.0 // indirect
 	github.com/mattn/go-colorable v0.1.13 // indirect
 	github.com/mattn/go-isatty v0.0.20 // indirect
