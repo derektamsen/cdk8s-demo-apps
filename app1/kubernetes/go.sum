@@ -8,8 +8,8 @@ github.com/cdk8s-team/cdk8s-core-go/cdk8s/v2 v2.69.18 h1:Lv8hAyvHvoFMnDVjbKr0kHl
 github.com/cdk8s-team/cdk8s-core-go/cdk8s/v2 v2.69.18/go.mod h1:XTWdR6m9omcFuteXTRarndTmAyegbqMIlymmHIl86YY=
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
-github.com/derektamsen/cdk8ssharedapp v0.0.0-20241120073039-320760283dcb h1:bAs9KlO5lSzPnFWAI7SZxBSTtSaQdGp3oB4kSL2v9ns=
-github.com/derektamsen/cdk8ssharedapp v0.0.0-20241120073039-320760283dcb/go.mod h1:HU6d4BWw2WwiVWxBFL46RVaGad2ghzIoPWwq9tI0GT0=
+github.com/derektamsen/cdk8ssharedapp v0.0.0-20241120073847-6fbd7818324b h1:y3TtvCVPrv/5ErJ9vpSh4qtEiqqMdsM0kiNXwoCNuVo=
+github.com/derektamsen/cdk8ssharedapp v0.0.0-20241120073847-6fbd7818324b/go.mod h1:4FdyAmcf8Tc3a3htT8Mszu4rR2OSo0Tl5yoFUtDqMTA=
 github.com/fatih/color v1.18.0 h1:S8gINlzdQ840/4pfAwic/ZE0djQEH3wM94VfqLTZcOM=
 github.com/fatih/color v1.18.0/go.mod h1:4FelSpRwEGDpQ12mAdzqdOukCy4u8WUtOY6lkT/6HfU=
 github.com/mattn/go-colorable v0.1.13 h1:fFA4WZxdEF4tXPZVKMLwD8oUnCTTo08duU7wxecdEvA=
