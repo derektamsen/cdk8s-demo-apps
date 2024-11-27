@@ -12,11 +12,11 @@ updates:
       interval: weekly
 
   - package-ecosystem: gomod
-    directory: /app1/
+    directory: /app1/kubernetes/
     schedule:
       interval: weekly
 
   - package-ecosystem: gomod
-    directory: /app2/
+    directory: /app2/kubernetes/
     schedule:
       interval: weekly
